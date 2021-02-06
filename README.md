@@ -25,7 +25,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
-- Emulator on macOS would not run the code although it ran fine on Windows. Resolved by using a different emulator: Pixel 3 API 28
+- Emulator on macOS would not run the code although it ran fine on Windows. Resolved by using a different emulator, Pixel 3 API 28.
 - Drag and drop feature did not work in the .XML Design interface. Resolved by enabling the "autoconnection to parent" feature.
 
 ### Open-source libraries used
