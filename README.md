@@ -35,7 +35,7 @@ Describe any challenges encountered while building the app.
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
 
---
+---
 
 ## Flix Part 1
 
